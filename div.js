@@ -1,1 +1,1 @@
-console.log('division feature added in main branch');
+console.log('division feature added in feature/merge branch');
